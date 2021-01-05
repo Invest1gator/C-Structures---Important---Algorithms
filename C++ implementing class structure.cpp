@@ -1,4 +1,4 @@
-//Serkan Koçoğlu 17070006004 ,Best Regards..
+//Serkan KoÃ§oÃ°lu 17070006004 ,Best Regards..
 #include <iostream>
 #include <string>
 using namespace std;
